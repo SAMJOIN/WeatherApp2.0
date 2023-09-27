@@ -1,0 +1,13 @@
+.weatherBox {
+    width: calc(60% - 100px);;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    border-radius: 30px;
+    background-color: rgba(0, 0, 0, 0.671);
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: 0 0 30px 1px black;
+}
